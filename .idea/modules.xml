@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidAppBook.iml" filepath="$PROJECT_DIR$/AndroidAppBook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/challenge01/challenge01.iml" filepath="$PROJECT_DIR$/challenge01/challenge01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/challenge02/challenge02.iml" filepath="$PROJECT_DIR$/challenge02/challenge02.iml" />
+    </modules>
+  </component>
+</project>
