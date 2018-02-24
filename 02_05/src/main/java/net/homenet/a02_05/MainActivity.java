@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
         int bitmapHeight = bitmap.getIntrinsicHeight();
 
         imageView.setImageDrawable(bitmap);
-//        imageView.getLayoutParams().width = bitmapWidth;
-//        imageView.getLayoutParams().height = bitmapHeight;
+        imageView.getLayoutParams().width = bitmapWidth;
+        imageView.getLayoutParams().height = bitmapHeight;
     }
 }
