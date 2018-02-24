@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">02_04</string>
+    <string name="button">Button</string>
+    <string name="other_properties">Other properties</string>
+    <string name="name">Name</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+</resources>
