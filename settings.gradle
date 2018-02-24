@@ -1,1 +1,1 @@
-include ':challenge01', ':challenge02'
+include ':challenge01', ':challenge02', ':02_02'

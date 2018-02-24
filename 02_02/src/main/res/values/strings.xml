@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">02_02</string>
+    <string name="vertical_orientation">Vertical orientation</string>
+    <string name="horizontal_orientation">Horizontal orientation</string>
+    <string name="button">Button</string>
+    <string name="code_sample">Code sample</string>
+    <string name="gravity_sample">Gravity sample</string>
+    <string name="left">Left</string>
+    <string name="center">Center</string>
+    <string name="right">Right</string>
+    <string name="baselinealigned_sample">BaselineAligned sample</string>
+    <string name="large_font">Large Font</string>
+    <string name="middle_font">Middle Font</string>
+    <string name="small_font">Small Font</string>
+</resources>
