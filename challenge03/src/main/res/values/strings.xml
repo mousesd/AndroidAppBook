@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">challenge03</string>
+    <string name="up">Up</string>
+    <string name="down">Down</string>
+    <string name="up_image">Up Image</string>
+    <string name="down_image">Down image</string>
+</resources>
