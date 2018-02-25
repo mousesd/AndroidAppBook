@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">challenge04</string>
+    <string name="input_the_sms_message">Input the SMS message</string>
+    <string name="send">Send</string>
+    <string name="close">Close</string>
+    <string name="size">0 / 80Bytes</string>
+    <string name="message">%d / 80Bytes</string>
+</resources>
