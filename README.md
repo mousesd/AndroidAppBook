@@ -8,6 +8,7 @@ Do it! 안드로이드 앱 프로그래밍
 4. 02-05: ScrollView
 5. 02-06: FrameLayout
 6. 03-01: Layout inflater
+7. 03-02: Show other activity
 
 # Challenge #
 1. challenge01: 도전01
