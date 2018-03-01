@@ -1,5 +1,6 @@
 package net.homenet.a03_02;
 
+import android.content.ComponentName;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -21,7 +22,14 @@ public class MainActivity extends AppCompatActivity {
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(getApplicationContext(), MenuActivity.class);
+                //# 1.
+//                Intent intent = new Intent(getApplicationContext(), MenuActivity.class);
+//                startActivityForResult(intent, Config.REQUEST_MENU_ACTIVITY);
+
+                //# 2.
+                ComponentName name = new ComponentName("net.homenet.a03_02", "net.homenet.a03_02.MenuActivity");
+                Intent intent = new Intent();
+                intent.setComponent(name);
                 startActivityForResult(intent, Config.REQUEST_MENU_ACTIVITY);
             }
         });

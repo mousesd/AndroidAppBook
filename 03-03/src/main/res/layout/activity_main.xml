@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="net.homenet.a03_03.MainActivity">
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tel_010_9030_4734"
+        android:textSize="24sp"
+        tools:ignore="LabelFor,TextFields" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tel"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/openPdf"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/open_pdf"
+        android:textAllCaps="false"/>
+
+</LinearLayout>
