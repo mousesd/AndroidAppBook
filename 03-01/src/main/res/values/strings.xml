@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">03-01</string>
+    <string name="click_the_button_to_the_add_layout">Click the button to the add layout</string>
+    <string name="add_the_layout">Add the layout</string>
+    <string name="part_layout">Part Layout</string>
+    <string name="agree">Agree</string>
+    <string name="load_completed">Load completed</string>
+</resources>
