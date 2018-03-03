@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">03-04</string>
+    <string name="show_other_activity">Show other activity</string>
+    <string name="back">Back</string>
+</resources>

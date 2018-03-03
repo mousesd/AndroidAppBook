@@ -10,6 +10,7 @@ Do it! 안드로이드 앱 프로그래밍
 6. 03-01: Layout inflater
 7. 03-02: Show other activity
 8. 03-03: Intent
+9. 03-04: Activity flag and bundle
 
 # Challenge #
 1. challenge01: 도전01
