@@ -11,6 +11,7 @@ Do it! 안드로이드 앱 프로그래밍
 7. 03-02: Show other activity
 8. 03-03: Intent
 9. 03-04: Activity flag and bundle
+10. 03-05: Activity lifecycle
 
 # Challenge #
 1. challenge01: 도전01
