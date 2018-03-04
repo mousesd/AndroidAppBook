@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">03-07</string>
+    <string name="sender">Sender</string>
+    <string name="content">Content</string>
+    <string name="received_date">Received Date</string>
+    <string name="back">Back</string>
+    <string name="datetime_format">yyyy-MM-dd HH:mm:ss</string>
+</resources>
