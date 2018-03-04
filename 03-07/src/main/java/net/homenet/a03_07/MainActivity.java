@@ -30,7 +30,9 @@ public class MainActivity extends AppCompatActivity {
             }
 
             //# 권한요청
-            ActivityCompat.requestPermissions(this, new String[] { Manifest.permission.RECEIVE_SMS }, SMS_RECEIVE_REQUEST_CODE);
+            ActivityCompat.requestPermissions(this
+                , new String[] { Manifest.permission.RECEIVE_SMS }
+                , SMS_RECEIVE_REQUEST_CODE);
         }
     }
 
