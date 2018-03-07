@@ -21,3 +21,4 @@ Do it! 안드로이드 앱 프로그래밍
 3. challenge03: 도전03
 4. challenge04: 도전04
 5. challenge05: 도전05
+6. challenge06: 도전06

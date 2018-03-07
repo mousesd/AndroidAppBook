@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">challenge06</string>
+    <string name="login">Login</string>
+    <string name="id">ID</string>
+    <string name="password">Password</string>
+    <string name="customers">Customers</string>
+    <string name="goods">Goods</string>
+    <string name="products">Products</string>
+    <string name="go_to_menu">Go to Menu</string>
+    <string name="go_to_login">Go to login</string>
+</resources>
