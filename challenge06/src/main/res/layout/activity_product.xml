@@ -8,12 +8,14 @@
     tools:context="net.homenet.challenge06.ProductActivity">
 
     <Button
+        android:id="@+id/menuOnProductButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/go_to_menu"
         android:textAllCaps="false"/>
 
     <Button
+        android:id="@+id/loginOnProductButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/go_to_login"

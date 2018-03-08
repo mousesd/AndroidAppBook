@@ -8,18 +8,21 @@
     tools:context="net.homenet.challenge06.MenuActivity">
 
     <Button
+        android:id="@+id/customerButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/customers"
         android:textAllCaps="false"/>
 
     <Button
+        android:id="@+id/goodButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/goods"
         android:textAllCaps="false"/>
 
     <Button
+        android:id="@+id/productButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/products"
