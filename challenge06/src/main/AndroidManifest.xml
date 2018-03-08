@@ -19,7 +19,7 @@
         <activity android:name=".MenuActivity" />
         <activity android:name=".CustomerActivity" />
         <activity android:name=".GoodActivity" />
-        <activity android:name=".ProductActivity"></activity>
+        <activity android:name=".ProductActivity"/>
     </application>
 
 </manifest>

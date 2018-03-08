@@ -30,7 +30,7 @@ public class ProductActivity extends AppCompatActivity {
             public void onClick(View view) {
                 Intent intent = new Intent(getApplicationContext(), LoginActivity.class);
                 intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_SINGLE_TOP
-                        | Intent.FLAG_ACTIVITY_CLEAR_TOP);
+                    | Intent.FLAG_ACTIVITY_CLEAR_TOP);
                 intent.putExtra("activityName", ProductActivity.class.getSimpleName());
                 startActivity(intent);
             }
