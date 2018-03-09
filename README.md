@@ -14,6 +14,7 @@ Do it! 안드로이드 앱 프로그래밍
 10. 03-05: Activity lifecycle
 11. 03-06: Service
 12. 03-07: Broadcast receiver, Dangerous permissions
+13. 04-01: Events
 
 # Challenge #
 1. challenge01: 도전01
