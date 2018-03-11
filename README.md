@@ -16,6 +16,7 @@ Do it! 안드로이드 앱 프로그래밍
 12. 03-07: Broadcast receiver, Dangerous permissions
 13. 04-01: Events
 14. 04-02: Selector
+15. 04-03: Screen orientation
 
 # Challenge #
 1. challenge01: 도전01
