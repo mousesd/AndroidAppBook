@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">04-04</string>
+    <string name="x_position">X Position</string>
+    <string name="y_position">Y Position</string>
+    <string name="show_toast">Show toast</string>
+    <string name="change_the_toast_shape">Change the toast shape</string>
+    <string name="message">Changed shape of the toast</string>
+</resources>
