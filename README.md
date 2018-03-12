@@ -17,7 +17,7 @@ Do it! 안드로이드 앱 프로그래밍
 13. 04-01: Events
 14. 04-02: Selector
 15. 04-03: Screen orientation
-16. 04-04: Toast
+16. 04-04: Toast & Snackbar
 
 # Challenge #
 1. challenge01: 도전01

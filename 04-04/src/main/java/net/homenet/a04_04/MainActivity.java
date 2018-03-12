@@ -1,8 +1,8 @@
 package net.homenet.a04_04;
 
-import android.annotation.SuppressLint;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.design.widget.Snackbar;
+import android.support.v7.app.AppCompatActivity;
 import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -49,6 +49,14 @@ public class MainActivity extends AppCompatActivity {
                 toast.setDuration(Toast.LENGTH_SHORT);
                 toast.setView(layout);
                 toast.show();
+            }
+        });
+
+        Button snackbarButton = this.findViewById(R.id.snackbarButton);
+        snackbarButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Snackbar.make(v, "This is the Snackbar", Snackbar.LENGTH_SHORT).show();
             }
         });
     }
