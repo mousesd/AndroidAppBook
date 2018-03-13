@@ -2,30 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/02_02/02_02.iml" filepath="$PROJECT_DIR$/02_02/02_02.iml" />
-      <module fileurl="file://$PROJECT_DIR$/02_03/02_03.iml" filepath="$PROJECT_DIR$/02_03/02_03.iml" />
-      <module fileurl="file://$PROJECT_DIR$/02_04/02_04.iml" filepath="$PROJECT_DIR$/02_04/02_04.iml" />
-      <module fileurl="file://$PROJECT_DIR$/02_05/02_05.iml" filepath="$PROJECT_DIR$/02_05/02_05.iml" />
-      <module fileurl="file://$PROJECT_DIR$/02_06/02_06.iml" filepath="$PROJECT_DIR$/02_06/02_06.iml" />
-      <module fileurl="file://$PROJECT_DIR$/03-01/03-01.iml" filepath="$PROJECT_DIR$/03-01/03-01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/03-02/03-02.iml" filepath="$PROJECT_DIR$/03-02/03-02.iml" />
-      <module fileurl="file://$PROJECT_DIR$/03-03/03-03.iml" filepath="$PROJECT_DIR$/03-03/03-03.iml" />
-      <module fileurl="file://$PROJECT_DIR$/03-04/03-04.iml" filepath="$PROJECT_DIR$/03-04/03-04.iml" />
-      <module fileurl="file://$PROJECT_DIR$/03-05/03-05.iml" filepath="$PROJECT_DIR$/03-05/03-05.iml" />
-      <module fileurl="file://$PROJECT_DIR$/03-06/03-06.iml" filepath="$PROJECT_DIR$/03-06/03-06.iml" />
-      <module fileurl="file://$PROJECT_DIR$/03-07/03-07.iml" filepath="$PROJECT_DIR$/03-07/03-07.iml" />
-      <module fileurl="file://$PROJECT_DIR$/04-01/04-01.iml" filepath="$PROJECT_DIR$/04-01/04-01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/04-02/04-02.iml" filepath="$PROJECT_DIR$/04-02/04-02.iml" />
-      <module fileurl="file://$PROJECT_DIR$/04-03/04-03.iml" filepath="$PROJECT_DIR$/04-03/04-03.iml" />
-      <module fileurl="file://$PROJECT_DIR$/04-04/04-04.iml" filepath="$PROJECT_DIR$/04-04/04-04.iml" />
-      <module fileurl="file://$PROJECT_DIR$/04-05/04-05.iml" filepath="$PROJECT_DIR$/04-05/04-05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-06/04-06.iml" filepath="$PROJECT_DIR$/04-06/04-06.iml" />
       <module fileurl="file://$PROJECT_DIR$/AndroidAppBook.iml" filepath="$PROJECT_DIR$/AndroidAppBook.iml" />
-      <module fileurl="file://$PROJECT_DIR$/challenge01/challenge01.iml" filepath="$PROJECT_DIR$/challenge01/challenge01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/challenge02/challenge02.iml" filepath="$PROJECT_DIR$/challenge02/challenge02.iml" />
-      <module fileurl="file://$PROJECT_DIR$/challenge03/challenge03.iml" filepath="$PROJECT_DIR$/challenge03/challenge03.iml" />
-      <module fileurl="file://$PROJECT_DIR$/challenge04/challenge04.iml" filepath="$PROJECT_DIR$/challenge04/challenge04.iml" />
-      <module fileurl="file://$PROJECT_DIR$/challenge05/challenge05.iml" filepath="$PROJECT_DIR$/challenge05/challenge05.iml" />
-      <module fileurl="file://$PROJECT_DIR$/challenge06/challenge06.iml" filepath="$PROJECT_DIR$/challenge06/challenge06.iml" />
     </modules>
   </component>
 </project>

@@ -8,29 +8,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/02_02" />
-            <option value="$PROJECT_DIR$/02_03" />
-            <option value="$PROJECT_DIR$/02_04" />
-            <option value="$PROJECT_DIR$/02_05" />
-            <option value="$PROJECT_DIR$/02_06" />
-            <option value="$PROJECT_DIR$/03-01" />
-            <option value="$PROJECT_DIR$/03-02" />
-            <option value="$PROJECT_DIR$/03-03" />
-            <option value="$PROJECT_DIR$/03-04" />
-            <option value="$PROJECT_DIR$/03-05" />
-            <option value="$PROJECT_DIR$/03-06" />
-            <option value="$PROJECT_DIR$/03-07" />
-            <option value="$PROJECT_DIR$/04-01" />
-            <option value="$PROJECT_DIR$/04-02" />
-            <option value="$PROJECT_DIR$/04-03" />
-            <option value="$PROJECT_DIR$/04-04" />
-            <option value="$PROJECT_DIR$/04-05" />
-            <option value="$PROJECT_DIR$/challenge01" />
-            <option value="$PROJECT_DIR$/challenge02" />
-            <option value="$PROJECT_DIR$/challenge03" />
-            <option value="$PROJECT_DIR$/challenge04" />
-            <option value="$PROJECT_DIR$/challenge05" />
-            <option value="$PROJECT_DIR$/challenge06" />
+            <option value="$PROJECT_DIR$/04-06" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

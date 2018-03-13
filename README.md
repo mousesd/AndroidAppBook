@@ -19,6 +19,7 @@ Do it! 안드로이드 앱 프로그래밍
 15. 04-03: Screen orientation
 16. 04-04: Toast & Snackbar
 17. 04-05: Dialog
+18. 04-06: ProgressBar
 
 # Challenge #
 1. challenge01: 도전01
