@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">04-05</string>
+    <string name="press_the_button_for_show_dialog">Press the button for show dialog</string>
+    <string name="show_dialog">Show dialog</string>
+    <string name="press_the_yes_button">Press the Yes button</string>
+    <string name="press_the_no_button">Press the No button</string>
+    <string name="press_the_cancel_button">Press the Cancel button</string>
+</resources>
