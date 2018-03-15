@@ -20,23 +20,52 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal">
-
         <Button
             android:id="@+id/showButton"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:text="@string/show"
-            android:textAllCaps="false"/>
-
+            android:textAllCaps="false"
+            tools:ignore="ButtonStyle" />
         <Button
             android:id="@+id/dismissButton"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:text="@string/dismiss"
-            android:textAllCaps="false"/>
-
+            android:textAllCaps="false"
+            tools:ignore="ButtonStyle" />
     </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/seekBarLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+        <SeekBar
+            android:id="@+id/seekBar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:progress="100"
+            android:max="100"/>
+
+        <TextView
+            android:id="@+id/seekTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:text="100"
+            tools:ignore="HardcodedText" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/seekButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/shwo_seekbar"
+        android:textAllCaps="false"/>
 
 </LinearLayout>
