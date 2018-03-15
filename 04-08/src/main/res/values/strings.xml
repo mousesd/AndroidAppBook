@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">04-08</string>
+    <string name="base_area">Base area</string>
+    <string name="area_1">Area #1</string>
+    <string name="area_2">Area #2</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>

@@ -21,6 +21,7 @@ Do it! 안드로이드 앱 프로그래밍
 17. 04-05: Dialog
 18. 04-06: ProgressBar, SeekBar
 19. 04-07: Animation
+20. 04-08: Page sliding
 
 # Challenge #
 1. challenge01: 도전01
