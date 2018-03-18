@@ -25,6 +25,7 @@ Do it! 안드로이드 앱 프로그래밍
 21. 04-09: Fragment
 22. 04-10: Fragment
 23. 04-11: Option menu
+24. 04-12: ActionBar
 
 # Challenge #
 1. challenge01: 도전01

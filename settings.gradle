@@ -16,14 +16,12 @@ include ':04-02'
 include ':04-03'
 include ':04-04'
 include ':04-05'
-*/
-include ':04-06', ':04-07', ':04-08', ':04-09', ":04-10", ":04-11"
-/*
 include ':04-07'
 include ':04-08'
 include ':04-09'
 include ':04-10'
 include ':04-11'
+include ':04-12'
 include ':challenge01'
 include ':challenge02'
 include ':challenge03'
@@ -31,3 +29,5 @@ include ':challenge04'
 include ':challenge05'
 include ':challenge06'
 */
+
+include ':04-06', ':04-07', ':04-08', ':04-09', ':04-10', ':04-11', ':04-12'
