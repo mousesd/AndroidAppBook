@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">04-09</string>
+    <string name="main_fragment">Main fragment</string>
+    <string name="go_to_menu">Go to menu</string>
+    <string name="menu_fragment">Menu fragment</string>
+    <string name="go_to_main">Go to main</string>
+</resources>
