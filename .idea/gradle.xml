@@ -9,6 +9,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/04-14" />
+            <option value="$PROJECT_DIR$/04-15" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
