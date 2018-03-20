@@ -27,6 +27,7 @@ Do it! 안드로이드 앱 프로그래밍
 23. 04-11: Option menu
 24. 04-12: ActionBar
 25. 04-13: ActionBar
+26. 04-14: Tab & ActionBar
 
 # Challenge #
 1. challenge01: 도전01

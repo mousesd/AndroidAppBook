@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/04-06/04-06.iml" filepath="$PROJECT_DIR$/04-06/04-06.iml" />
-      <module fileurl="file://$PROJECT_DIR$/04-07/04-07.iml" filepath="$PROJECT_DIR$/04-07/04-07.iml" />
-      <module fileurl="file://$PROJECT_DIR$/04-08/04-08.iml" filepath="$PROJECT_DIR$/04-08/04-08.iml" />
-      <module fileurl="file://$PROJECT_DIR$/04-09/04-09.iml" filepath="$PROJECT_DIR$/04-09/04-09.iml" />
-      <module fileurl="file://$PROJECT_DIR$/04-10/04-10.iml" filepath="$PROJECT_DIR$/04-10/04-10.iml" />
-      <module fileurl="file://$PROJECT_DIR$/04-11/04-11.iml" filepath="$PROJECT_DIR$/04-11/04-11.iml" />
-      <module fileurl="file://$PROJECT_DIR$/04-12/04-12.iml" filepath="$PROJECT_DIR$/04-12/04-12.iml" />
-      <module fileurl="file://$PROJECT_DIR$/04-13/04-13.iml" filepath="$PROJECT_DIR$/04-13/04-13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-14/04-14.iml" filepath="$PROJECT_DIR$/04-14/04-14.iml" />
       <module fileurl="file://$PROJECT_DIR$/AndroidAppBook.iml" filepath="$PROJECT_DIR$/AndroidAppBook.iml" />
     </modules>
   </component>

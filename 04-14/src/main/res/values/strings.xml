@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">04-14</string>
+    <string name="title">Title</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="firsttab_button">FirstTab Button</string>
+    <string name="secondtab_button">SecondTab Button</string>
+    <string name="thirdtab_button">ThirdTab Button</string>
+</resources>
