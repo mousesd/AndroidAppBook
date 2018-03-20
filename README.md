@@ -29,6 +29,7 @@ Do it! 안드로이드 앱 프로그래밍
 25. 04-13: ActionBar
 26. 04-14: Tab & ActionBar
 27. 04-15: WebView
+28. 04-16: InputType
 
 # Challenge #
 1. challenge01: 도전01

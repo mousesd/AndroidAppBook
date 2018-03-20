@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">04-16</string>
+    <string name="inputtype_text_textcapwords">inputType: text|textCapwords</string>
+    <string name="date">date</string>
+    <string name="phone">phone</string>
+    <string name="textpassword">textPassword</string>
+    <string name="text_email_address">textEmailAddress</string>
+    <string name="number_numbersigned_numberdecimal">number|numberSigned|numberDecimal</string>
+</resources>
