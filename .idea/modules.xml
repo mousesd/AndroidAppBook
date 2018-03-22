@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/04-16/04-16.iml" filepath="$PROJECT_DIR$/04-16/04-16.iml" />
+      <module fileurl="file://D:\Android\AndroidAppBook\04-16\04-16.iml" filepath="D:\Android\AndroidAppBook\04-16\04-16.iml" />
       <module fileurl="file://$PROJECT_DIR$/AndroidAppBook.iml" filepath="$PROJECT_DIR$/AndroidAppBook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chanllenge07/chanllenge07.iml" filepath="$PROJECT_DIR$/chanllenge07/chanllenge07.iml" />
     </modules>
   </component>
 </project>
