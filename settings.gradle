@@ -1,3 +1,4 @@
+include ':challenge07'
 include ':challenge08'
 
 /*
@@ -34,7 +35,7 @@ include ':challenge03'
 include ':challenge04'
 include ':challenge05'
 include ':challenge06'
-include ':chanllenge07'
+include ':challenge07'
 include ':challenge08'
 */
 
