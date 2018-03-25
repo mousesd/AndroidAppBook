@@ -1,5 +1,6 @@
 package net.homenet.a05_02;
 
+import android.annotation.SuppressLint;
 import android.content.Context;
 import android.graphics.Color;
 import android.graphics.Typeface;
@@ -9,8 +10,8 @@ import android.view.MotionEvent;
 
 public class BitmapButton extends AppCompatButton {
 
-    public static final int STATUS_NORMAL = 0;
-    public static final int STATUS_CLICKED = 1;
+//    public static final int STATUS_NORMAL = 0;
+//    public static final int STATUS_CLICKED = 1;
 
     public BitmapButton(Context context) {
         super(context);
@@ -29,6 +30,7 @@ public class BitmapButton extends AppCompatButton {
         this.setTypeface(Typeface.DEFAULT_BOLD);
     }
 
+    @SuppressLint("ClickableViewAccessibility")
     @Override
     public boolean onTouchEvent(MotionEvent event) {
         super.onTouchEvent(event);
