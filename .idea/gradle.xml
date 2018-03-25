@@ -8,8 +8,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/challenge07" />
-            <option value="$PROJECT_DIR$/challenge08" />
+            <option value="$PROJECT_DIR$/05-01" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
