@@ -31,6 +31,7 @@ Do it! 안드로이드 앱 프로그래밍
 27. 04-15: WebView
 28. 04-16: InputType
 29. 05-01: Nine-patch Image
+30. 05-02: Bitmap button
 
 # Challenge #
 1. challenge01: 도전01
