@@ -33,6 +33,7 @@ Do it! 안드로이드 앱 프로그래밍
 29. 05-01: Nine-patch Image
 30. 05-02: Bitmap button
 31. 05-03: ListView
+32. 05-04: Spinner
 
 # Challenge #
 1. challenge01: 도전01
