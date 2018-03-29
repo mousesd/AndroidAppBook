@@ -1,4 +1,4 @@
-include ':05-06'
+include ':05-06', ':05-07'
 
 /*
 include ':02_02'
@@ -34,6 +34,7 @@ include ':05-03'
 include ':05-04'
 include ':05-05'
 include ':05-06'
+include ':05-07'
 
 include ':challenge01'
 include ':challenge02'
