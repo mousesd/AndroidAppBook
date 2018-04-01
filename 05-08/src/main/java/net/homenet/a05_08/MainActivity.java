@@ -27,9 +27,12 @@ public class MainActivity extends AppCompatActivity {
         monthView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int position, long l) {
-                MonthItem selectedItem = (MonthItem) adapterView.getSelectedItem();
+                MonthItem selectedItem = (MonthItem) adapter.getItem(position);
                 int day = selectedItem.getDay();
                 Log.d(TAG, String.format("Selected Day: %s", day));
+
+                adapter.setSelectedPosition(position);
+                adapter.notifyDataSetChanged();
             }
         });
 
