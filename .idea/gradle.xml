@@ -8,8 +8,48 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/02_02" />
+            <option value="$PROJECT_DIR$/02_03" />
+            <option value="$PROJECT_DIR$/02_04" />
+            <option value="$PROJECT_DIR$/02_05" />
+            <option value="$PROJECT_DIR$/02_06" />
+            <option value="$PROJECT_DIR$/03-01" />
+            <option value="$PROJECT_DIR$/03-02" />
+            <option value="$PROJECT_DIR$/03-03" />
+            <option value="$PROJECT_DIR$/03-04" />
+            <option value="$PROJECT_DIR$/03-05" />
+            <option value="$PROJECT_DIR$/03-06" />
+            <option value="$PROJECT_DIR$/03-07" />
+            <option value="$PROJECT_DIR$/04-01" />
+            <option value="$PROJECT_DIR$/04-02" />
+            <option value="$PROJECT_DIR$/04-03" />
+            <option value="$PROJECT_DIR$/04-04" />
+            <option value="$PROJECT_DIR$/04-05" />
+            <option value="$PROJECT_DIR$/04-07" />
+            <option value="$PROJECT_DIR$/04-08" />
+            <option value="$PROJECT_DIR$/04-09" />
+            <option value="$PROJECT_DIR$/04-10" />
+            <option value="$PROJECT_DIR$/04-11" />
+            <option value="$PROJECT_DIR$/04-12" />
+            <option value="$PROJECT_DIR$/04-13" />
+            <option value="$PROJECT_DIR$/04-14" />
+            <option value="$PROJECT_DIR$/04-15" />
+            <option value="$PROJECT_DIR$/04-16" />
+            <option value="$PROJECT_DIR$/05-01" />
+            <option value="$PROJECT_DIR$/05-02" />
+            <option value="$PROJECT_DIR$/05-03" />
+            <option value="$PROJECT_DIR$/05-04" />
+            <option value="$PROJECT_DIR$/05-05" />
             <option value="$PROJECT_DIR$/05-06" />
             <option value="$PROJECT_DIR$/05-07" />
+            <option value="$PROJECT_DIR$/challenge01" />
+            <option value="$PROJECT_DIR$/challenge02" />
+            <option value="$PROJECT_DIR$/challenge03" />
+            <option value="$PROJECT_DIR$/challenge04" />
+            <option value="$PROJECT_DIR$/challenge05" />
+            <option value="$PROJECT_DIR$/challenge06" />
+            <option value="$PROJECT_DIR$/challenge07" />
+            <option value="$PROJECT_DIR$/challenge08" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

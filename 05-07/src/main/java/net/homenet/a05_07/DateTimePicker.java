@@ -90,6 +90,26 @@ public class DateTimePicker extends LinearLayout {
         timePicker.setCurrentMinute(minute);
     }
 
+    public int getYear() {
+        return datePicker.getYear();
+    }
+
+    public int getMonth() {
+        return datePicker.getMonth();
+    }
+
+    public int getDayOfMonth() {
+        return datePicker.getDayOfMonth();
+    }
+
+    public int getHour() {
+        return timePicker.getCurrentHour();
+    }
+
+    public int getMinute() {
+        return timePicker.getCurrentMinute();
+    }
+
     public interface OnDateTimeChangedListener {
         void onDateTimeChanged(DateTimePicker dateTimePicker, int year, int monthOfYear, int dayOfYear
             , int hourOfDay, int minute);
