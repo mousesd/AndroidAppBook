@@ -32,6 +32,7 @@ include ':05-04'
 include ':05-05'
 include ':05-06'
 include ':05-07'
+include ':05-08'
 
 include ':challenge01'
 include ':challenge02'
