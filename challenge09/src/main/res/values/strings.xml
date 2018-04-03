@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">challenge09</string>
+    <string name="add_customer_info">Add the customer</string>
+    <string name="person_count">0 Persons</string>
+    <string name="tel_no">Tel No</string>
+    <string name="add">Add</string>
+    <string name="customer_icon">Customer icon</string>
+    <string name="name">Name</string>
+    <string name="birthday">Birthday</string>
+    <string name="tel_no_listview">000-0000-0000</string>
+</resources>
