@@ -15,7 +15,7 @@ public class CustomerAdapter extends BaseAdapter {
     private Context context;
     private ArrayList<CustomerModel> customers;
 
-    public CustomerAdapter(Context context) {
+    CustomerAdapter(Context context) {
         this.context = context;
         customers = new ArrayList<>();
     }

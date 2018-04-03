@@ -22,7 +22,7 @@ public class CustomerModel {
         return telNo;
     }
 
-    public CustomerModel(int resourceId, String name, String birthday, String telNo) {
+    CustomerModel(int resourceId, String name, String birthday, String telNo) {
         this.resourceId = resourceId;
         this.name = name;
         this.birthday = birthday;
