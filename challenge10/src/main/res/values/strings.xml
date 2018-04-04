@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">challenge10</string>
+    <string name="shopping_items">Shopping items</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_image">Product Image</string>
+    <string name="product_price">90,000Won</string>
+    <string name="product_descripton">Product descripton</string>
+</resources>
