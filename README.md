@@ -40,6 +40,7 @@ Do it! 안드로이드 앱 프로그래밍
 36. 05-08: Calendar widget
 37. 06-01: Draw the rectangle
 38. 06-02: Draw the object with style
+39. 06-03: Draw the drawable object
 
 # Challenge #
 1. challenge01: 도전01
