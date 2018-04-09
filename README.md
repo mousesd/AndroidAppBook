@@ -38,6 +38,7 @@ Do it! 안드로이드 앱 프로그래밍
 34. 05-06: GridView
 35. 05-07: Custom complex widget
 36. 05-08: Calendar widget
+37. 06-01: Draw the rectangle
 
 # Challenge #
 1. challenge01: 도전01
