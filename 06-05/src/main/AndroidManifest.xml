@@ -18,8 +18,13 @@
         </activity>
         <activity android:name=".PaintBoardActivity" />
         <activity android:name=".GoodPaintBoardActivity" />
-        <activity android:name=".ColorPaletteDialog" android:theme="@style/Theme.AppCompat.Dialog"/>
-        <activity android:name=".PenPaletteDialog" android:theme="@style/Theme.AppCompat.Dialog"/>
+        <activity android:name=".BestPaintBoardActivity" />
+        <activity
+            android:name=".ColorPaletteDialog"
+            android:theme="@style/Theme.AppCompat.Dialog" />
+        <activity
+            android:name=".PenPaletteDialog"
+            android:theme="@style/Theme.AppCompat.Dialog" />
     </application>
 
 </manifest>

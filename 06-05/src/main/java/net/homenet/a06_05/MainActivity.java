@@ -30,5 +30,14 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+
+        Button button3 = this.findViewById(R.id.step3Button);
+        button3.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this, BestPaintBoardActivity.class);
+                startActivity(intent);
+            }
+        });
     }
 }
