@@ -38,6 +38,7 @@ include ':06-01'
 include ':06-02'
 include ':06-03'
 include ':06-04'
+include ':06-05'
 
 include ':challenge01'
 include ':challenge02'

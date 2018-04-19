@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".GoodPaintBoardActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/colorButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/color"
+            android:drawableTop="@drawable/colorpalette"
+            android:drawablePadding="2dp"
+            tools:ignore="ButtonStyle" />
+        <Button
+            android:id="@+id/penButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/pen"
+            android:drawableTop="@drawable/penpalette"
+            android:drawablePadding="2dp"
+            tools:ignore="ButtonStyle" />
+        <Button
+            android:id="@+id/eraserButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/eraser"
+            android:drawableTop="@drawable/eraser"
+            android:drawablePadding="2dp"
+            tools:ignore="ButtonStyle" />
+        <Button
+            android:id="@+id/undoButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/undo"
+            android:drawableTop="@drawable/undo"
+            android:drawablePadding="2dp"
+            tools:ignore="ButtonStyle" />
+    </LinearLayout>
+
+    <net.homenet.a06_05.GoodPaintBoard
+        android:id="@+id/goodPaintBoard"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="2dp"/>
+
+</LinearLayout>

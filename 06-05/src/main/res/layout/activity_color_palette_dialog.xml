@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ColorPaletteDialog">
+
+    <GridView
+        android:id="@+id/colorGridView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+        android:columnWidth="14dp"
+        android:background="@android:color/darker_gray"
+        android:verticalSpacing="4dp"
+        android:horizontalSpacing="4dp"/>
+
+    <Button
+        android:id="@+id/closeButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableStart="@drawable/cancel_btn"
+        android:drawablePadding="4dp"
+        android:text="@string/close"
+        android:textAllCaps="false"/>
+
+</LinearLayout>

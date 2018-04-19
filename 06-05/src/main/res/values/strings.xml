@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">06-05</string>
+    <string name="color">Color</string>
+    <string name="pen">Pen</string>
+    <string name="eraser">Eraser</string>
+    <string name="undo">Undo</string>
+    <string name="paintboard_step_1">PaintBoard Step #1</string>
+    <string name="paintboard_step_2">PaintBoard Step #2</string>
+    <string name="paintboard_step_3">PaintBoard Step #3</string>
+    <string name="close">Close</string>
+</resources>
