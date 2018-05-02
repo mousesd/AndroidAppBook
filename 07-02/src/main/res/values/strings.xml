@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">07-02</string>
+    <string name="message_type">Message type</string>
+    <string name="post_type">Post type</string>
+    <string name="done">Done</string>
+    <string name="working">Working...%d</string>
+</resources>
