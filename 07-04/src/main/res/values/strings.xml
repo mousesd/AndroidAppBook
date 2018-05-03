@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">07-04</string>
+    <string name="execute">Execute</string>
+    <string name="cancel">Cancel</string>
+    <string name="current_value">Current Value: %d</string>
+    <string name="finished">Finihsed.</string>
+    <string name="cancelled">Cancelled</string>
+</resources>
