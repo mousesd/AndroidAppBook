@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">07-07</string>
+    <string name="scale">Scale</string>
+    <string name="scale2">Scale2</string>
+    <string name="translate">Translate</string>
+    <string name="rotate">Rotate</string>
+    <string name="alpha">Alpha</string>
+</resources>
