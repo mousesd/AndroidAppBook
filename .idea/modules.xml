@@ -51,6 +51,7 @@
       <module fileurl="file://$PROJECT_DIR$/07-06/07-06.iml" filepath="$PROJECT_DIR$/07-06/07-06.iml" />
       <module fileurl="file://$PROJECT_DIR$/07-07/07-07.iml" filepath="$PROJECT_DIR$/07-07/07-07.iml" />
       <module fileurl="file://$PROJECT_DIR$/07-08/07-08.iml" filepath="$PROJECT_DIR$/07-08/07-08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-09/07-09.iml" filepath="$PROJECT_DIR$/07-09/07-09.iml" />
       <module fileurl="file://$PROJECT_DIR$/AndroidAppBook.iml" filepath="$PROJECT_DIR$/AndroidAppBook.iml" />
       <module fileurl="file://$PROJECT_DIR$/challenge01/challenge01.iml" filepath="$PROJECT_DIR$/challenge01/challenge01.iml" />
       <module fileurl="file://$PROJECT_DIR$/challenge02/challenge02.iml" filepath="$PROJECT_DIR$/challenge02/challenge02.iml" />
@@ -62,6 +63,7 @@
       <module fileurl="file://$PROJECT_DIR$/challenge08/challenge08.iml" filepath="$PROJECT_DIR$/challenge08/challenge08.iml" />
       <module fileurl="file://$PROJECT_DIR$/challenge09/challenge09.iml" filepath="$PROJECT_DIR$/challenge09/challenge09.iml" />
       <module fileurl="file://$PROJECT_DIR$/challenge10/challenge10.iml" filepath="$PROJECT_DIR$/challenge10/challenge10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/challenge13/challenge13.iml" filepath="$PROJECT_DIR$/challenge13/challenge13.iml" />
     </modules>
   </component>
 </project>
