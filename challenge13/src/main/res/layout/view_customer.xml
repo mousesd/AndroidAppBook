@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     android:orientation="horizontal"
     android:layout_width="match_parent"
     android:layout_height="wrap_content">
@@ -7,14 +8,40 @@
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="80sp"
-        android:layout_height="80sp"
-        android:src="@drawable/customer"/>
+        android:layout_height="90sp"
+        android:layout_gravity="center"
+        android:layout_margin="10sp"
+        android:src="@drawable/customer"
+        tools:ignore="ContentDescription" />
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginStart="10sp"
         android:orientation="vertical">
-
+        <TextView
+            android:id="@+id/nameTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/name"
+            android:textSize="40sp"
+            android:textStyle="bold"
+            android:textColor="#ff5805"/>
+        <TextView
+            android:id="@+id/mobileTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:text="@string/mobile"
+            android:textSize="20sp"
+            android:textColor="#0223e0"
+            android:layout_marginTop="6sp"/>
+        <TextView
+            android:id="@+id/addressTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:text="@string/address"
+            android:textSize="20sp"
+            android:textColor="#4902d6"/>
     </LinearLayout>
 
 </LinearLayout>

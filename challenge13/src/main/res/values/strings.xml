@@ -2,4 +2,7 @@
     <string name="app_name">challenge13</string>
     <string name="start">Start</string>
     <string name="stop">Stop</string>
+    <string name="name">Name</string>
+    <string name="mobile">Mobile</string>
+    <string name="address">Address</string>
 </resources>
