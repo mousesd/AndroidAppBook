@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">09-02</string>
+    <string name="create_a_database">Create a database</string>
+    <string name="input_a_name_of_the_database">Input a name of the database</string>
+    <string name="customer_db">customer.db</string>
+    <string name="create_a_table">Create a table</string>
+    <string name="input_a_name_of_the_table">Input a name of the table</string>
+    <string name="employee">employee</string>
+    <string name="status">Status:</string>
+</resources>
